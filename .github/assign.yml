@@ -1,0 +1,6 @@
+# Configuration for kentaro-m/auto-assign-action
+addAssignees:
+  - author
+addReviewers: true
+numberOfReviewers: 2
+randomReviewers: true
